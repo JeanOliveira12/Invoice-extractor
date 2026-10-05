@@ -1,0 +1,32 @@
+{
+  "vendor": "Sunrise Snacks Ltd",
+  "invoice_number": "SS-0045",
+  "date": "2026-10-05",
+  "currency": "EUR",
+  "subtotal": 273.6,
+  "tax": 0,
+  "shipping": 0,
+  "discount": 0,
+  "total": 273.6,
+  "expected_status": "OK",
+  "line_items": [
+    {
+      "description": "Salted crackers 200g",
+      "quantity": 60,
+      "unit_price": 1.1,
+      "amount": 66.0
+    },
+    {
+      "description": "Chocolate wafers 150g",
+      "quantity": 48,
+      "unit_price": 1.45,
+      "amount": 69.6
+    },
+    {
+      "description": "Mixed nuts 500g",
+      "quantity": 20,
+      "unit_price": 6.9,
+      "amount": 138.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "vendor": "Blue Ridge Paper Co.",
+  "invoice_number": "BR-2026-0931",
+  "date": "2026-09-22",
+  "currency": "USD",
+  "subtotal": 254.5,
+  "tax": 0,
+  "shipping": 24.0,
+  "discount": 15.0,
+  "total": 263.5,
+  "expected_status": "OK",
+  "line_items": [
+    {
+      "description": "Kraft paper bags, medium",
+      "quantity": 500,
+      "unit_price": 0.18,
+      "amount": 90.0
+    },
+    {
+      "description": "Paper napkins (pack of 250)",
+      "quantity": 30,
+      "unit_price": 3.4,
+      "amount": 102.0
+    },
+    {
+      "description": "Receipt rolls 80mm",
+      "quantity": 50,
+      "unit_price": 1.25,
+      "amount": 62.5
+    }
+  ]
+}

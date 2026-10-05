@@ -1,0 +1,32 @@
+{
+  "vendor": "Harbor Cleaning Products",
+  "invoice_number": "HC-7781",
+  "date": "2026-09-30",
+  "currency": "USD",
+  "subtotal": null,
+  "tax": 0,
+  "shipping": 0,
+  "discount": 0,
+  "total": 432.5,
+  "expected_status": "REVIEW",
+  "line_items": [
+    {
+      "description": "Floor cleaner 5L",
+      "quantity": 10,
+      "unit_price": 18.5,
+      "amount": 185.0
+    },
+    {
+      "description": "Disinfectant spray 500ml",
+      "quantity": 40,
+      "unit_price": 4.25,
+      "amount": 170.0
+    },
+    {
+      "description": "Microfiber cloths (10 pack)",
+      "quantity": 15,
+      "unit_price": 4.5,
+      "amount": 67.5
+    }
+  ]
+}

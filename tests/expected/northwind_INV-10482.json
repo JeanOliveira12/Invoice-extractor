@@ -1,0 +1,38 @@
+{
+  "vendor": "Northwind Beverage Supply",
+  "invoice_number": "INV-10482",
+  "date": "2026-09-14",
+  "currency": "USD",
+  "subtotal": 935.8,
+  "tax": 77.2,
+  "shipping": 0,
+  "discount": 0,
+  "total": 1013.0,
+  "expected_status": "OK",
+  "line_items": [
+    {
+      "description": "Sparkling Water 12x500ml",
+      "quantity": 40,
+      "unit_price": 6.75,
+      "amount": 270.0
+    },
+    {
+      "description": "Orange Juice 1L (case of 6)",
+      "quantity": 25,
+      "unit_price": 11.2,
+      "amount": 280.0
+    },
+    {
+      "description": "Cola 24-pack cans",
+      "quantity": 18,
+      "unit_price": 14.9,
+      "amount": 268.2
+    },
+    {
+      "description": "Iced Tea Lemon 6x1.5L",
+      "quantity": 12,
+      "unit_price": 9.8,
+      "amount": 117.6
+    }
+  ]
+}

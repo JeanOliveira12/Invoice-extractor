@@ -1,0 +1,32 @@
+{
+  "vendor": "Metro Packaging",
+  "invoice_number": "MP-55210",
+  "date": "2026-10-01",
+  "currency": "USD",
+  "subtotal": null,
+  "tax": 0,
+  "shipping": 0,
+  "discount": 0,
+  "total": 445.6,
+  "expected_status": "REVIEW",
+  "line_items": [
+    {
+      "description": "Corrugated boxes 40x30x30",
+      "quantity": 200,
+      "unit_price": 0.95,
+      "amount": 190.0
+    },
+    {
+      "description": "Stretch film roll 500mm",
+      "quantity": 12,
+      "unit_price": 13.5,
+      "amount": 180.0
+    },
+    {
+      "description": "Packing tape 48mm x 100m",
+      "quantity": 36,
+      "unit_price": 2.1,
+      "amount": 75.6
+    }
+  ]
+}

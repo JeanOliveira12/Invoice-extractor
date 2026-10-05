@@ -1,0 +1,6 @@
+2026-10-05 14:37:06 OK blueridge_BR-2026-0931.pdf 
+2026-10-05 14:37:09 REVIEW harbor_HC-7781.pdf Line items + tax + shipping - discount = 422.50, but invoice total is 432.50 (difference +10.00)
+2026-10-05 14:37:13 REVIEW metro_MP-55210.pdf Line 2 (Stretch film roll 500mm): qty x price = 162.00, printed 180.00
+2026-10-05 14:37:17 OK northwind_INV-10482.pdf 
+2026-10-05 14:37:17 REVIEW scanned_greenfield.pdf No text found in the PDF (probably scanned): needs OCR or manual entry
+2026-10-05 14:37:21 OK sunrise_SS-0045.pdf 
